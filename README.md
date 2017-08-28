@@ -1,2 +1,0 @@
-# CODE1231-HTML-Michael
-CODE1231 HTML Files
